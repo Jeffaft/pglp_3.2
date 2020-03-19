@@ -5,7 +5,7 @@ import org.junit.Test;
 public class VendeurTest {
 
 	@Test
-	public void testSalire() {
+	public void testSalaire() {
 		Vendeur v1 = new Vendeur(0);
 		Vendeur v2 = new Vendeur(600);
 		Vendeur v3 = new Vendeur(100);
